@@ -1,0 +1,17 @@
+This time 13 astronauts on the International Space Station: 
+
+Mark Vande Hei - on board
+Oleg Novitskiy - on board
+Pyotr Dubrov - on board
+Thomas Pesquet - on board
+Megan McArthur - on board
+Shane Kimbrough - on board
+Akihiko Hoshide - on board
+Anton Shkaplerov - on board
+Klim Shipenko - on board
+Yulia Peresild - on board
+Zhai Zhigang - on board
+Wang Yaping - on board
+Ye Guangfu - on board
+
+Your current latitute and longitude are: [26.8393, 80.9231]
